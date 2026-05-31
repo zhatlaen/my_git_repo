@@ -1,0 +1,2 @@
+pygame==2.5.2
+PyInstaller>=5.13; sys_platform == 'win32'
